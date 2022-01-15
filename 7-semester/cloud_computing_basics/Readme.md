@@ -2,7 +2,7 @@
 ## Download MongoDB packages
 `wget https://repo.mongodb.org/apt/ubuntu/dists/focal/mongodb-org/5.0/multiverse/binary-arm64/mongodb-org-mongos_5.0.5_arm64.deb`
 `wget https://repo.mongodb.org/apt/ubuntu/dists/focal/mongodb-org/5.0/multiverse/binary-arm64/mongodb-org-shell_5.0.5_arm64.deb`
-## Intall deb packages
+## Indtall deb packages
 `sudo dpkg -i *.deb`
 ## Start and enable mongodb services
 ```
