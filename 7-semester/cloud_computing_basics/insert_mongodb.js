@@ -97,7 +97,7 @@ MongoClient.connect(url, function(err, db) {
         }
 
     ];
-    dbo.collection("customers").insertMany(students, function(err, res) {
+    dbo.collection("studentsdb").insertMany(students, function(err, res) {
         if (err) throw err;
         console.log("Number of documents inserted: " + res.insertedCount);
         db.close();
