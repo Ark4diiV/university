@@ -22,7 +22,15 @@ sudo apt install npm
 ```
 npm i mongodb
 ```
-
+Open your encoding.js folder in node_modules>whatwg-url>dist and write this code
+```"use strict";
+var util= require('util');
+const utf8Encoder = new util.TextEncoder();
+const utf8Decoder = new util.TextDecoder("utf-8", { ignoreBOM: true });```
+in place of
+```"use strict";
+const utf8Encoder = new TextEncoder();
+const utf8Decoder = new TextDecoder("utf-8", { ignoreBOM: true });```
 # MongoDB commands
 ### listDatabases
 ```
