@@ -46,48 +46,10 @@ db.adminCommand( { listDatabases: 1 } )
 use studentsdb
 db.dropDatabase()
 ```
-### Aggregations
-```
-dbo.studentsdb.aggregate([{
-        $addFields: { 'scores': { '$objectToArray': '$scores' } } //Подменяем поле scores в документе. Конвертируем ключ:значения из scores в массивы
-    },
-    { $unwind: { path: '$scores' } }, //Оставляем в документе только 1 предмет из scores
-    { $group: { _id: '$fullName', AvgScore: { $push: { $avg: '$scores.v' } } } }, //Группируем по ФИ. Для ключа AvgScore в значение пишем массив из avg scores.k
-    {
-        $project: { _id: 1, AvgScore: { $avg: '$AvgScore' } } //Возвращаем ФИ и среднюю оценку
-    }
-])
-```
-```
-dbo.studentsdb.aggregate([{ $addFields: { 'scores': { '$objectToArray': '$scores' } } }, //Подменяем поле scores в документе. Конвертируем ключ:значения из scores в массивы
-    { $unwind: { path: '$scores', } }, //Оставляем в документе только 1 предмет из scores
-    {
-       $group: {
-            _id: '$fullName', //Группировка по имени студента
-            AvgScore: {
-                $push: //Для ключа AvgScore в значение пишем массив из scores.k + avg scores.k
-                { $concat: ['$scores.k', '=', { "$substr": [{ $avg: '$scores.v' }, 0, 4] }] } //Вернем avg value строки с оценками, длинной 0-4. Соединяем key строки с avg оценками
-            }
-        }
-    }
-])
-```
-```
-dbo.studentsdb.aggregate([{
-        $addFields: { 'scores': { '$objectToArray': '$scores' } }
-    },
-    { $unwind: { path: '$scores' } },
-    { $group: { _id: '$fullName', AvgScore: { $push: { $avg: '$scores.v' } } } },
-    { $project: { _id: 1, AvgScore: { $avg: '$AvgScore' } } },
-    { $project: { _id: 1, AvgScore: 1, condition: { $gt: ['$AvgScore', 4.75] } } }, //Condition содержит AvgScore больше 4.75. Выбрать такие документы
-    { $match: { condition: true } }, //Фильтр документов по условию
-    {
-        $project: { _id: 1, AvgScore: 1 } //Вывести ФИ и AvgScore
-    }
-])
-```
-```
-dbo.studentsdb.aggregate([
-        { "$group": { _id: "$group", Group: { "$push": "$fullName" } } } //Вставить ФИ в Group и группу в документ. Группировать по полю group
-    ])
-```
+## Tasks
+Подготовить базу данных в MongoDB и JS-скрипт(-ы), реализующие следующие запросы:
+1. Наполнение БД информацией о 10 студентах: имя, фамилия, возраст, группа, оценки по нескольким дисциплинам (перечень дисциплин у каждого студента может отличаться)
+2. Получить список студентов со средними оценками по каждой дисциплине
+3. Получить список студентов со средней оценкой
+4. Получить список студентов со средней оценкой выше 4.75
+5. Вывести списки студентов, разбитые по по группам
