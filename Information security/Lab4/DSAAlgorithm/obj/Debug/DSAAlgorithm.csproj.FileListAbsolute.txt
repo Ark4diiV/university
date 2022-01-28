@@ -1,0 +1,7 @@
+C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap5\DSAAlgorithm\bin\Debug\DSAAlgorithm.exe
+C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap5\DSAAlgorithm\bin\Debug\DSAAlgorithm.pdb
+C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap5\DSAAlgorithm\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap5\DSAAlgorithm\obj\Debug\DSAAlgorithm.DSAAlgorithm.resources
+C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap5\DSAAlgorithm\obj\Debug\DSAAlgorithm.csproj.GenerateResource.Cache
+C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap5\DSAAlgorithm\obj\Debug\DSAAlgorithm.exe
+C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap5\DSAAlgorithm\obj\Debug\DSAAlgorithm.pdb

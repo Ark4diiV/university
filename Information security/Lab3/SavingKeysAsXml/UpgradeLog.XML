@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SavingKeysAsXml">
+</Property><Property Name="Файл решения" Value="C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap4\SavingKeysAsXml\SavingKeysAsXml.sln">
+</Property><Property Name="Date" Value="2 октября 2010 г.">
+</Property><Property Name="Time" Value="5:46">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SavingKeysAsXml.sln" Description="Успешно создана резервная копия файла C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap4\SavingKeysAsXml\Backup\SavingKeysAsXml.sln">
+</Event><Event ErrorLevel="0" Project="SavingKeysAsXml" Source="SavingKeysAsXml.csproj" Description="Успешно создана резервная копия файла проекта: C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap4\SavingKeysAsXml\Backup\SavingKeysAsXml.csproj">
+</Event><Event ErrorLevel="0" Project="SavingKeysAsXml" Source="SavingKeysAsXml.csproj.user" Description="Резервная копия проекта успешно создана как C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap4\SavingKeysAsXml\Backup\SavingKeysAsXml.csproj.user">
+</Event><Event ErrorLevel="0" Project="SavingKeysAsXml" Source="AssemblyInfo.cs" Description="Успешно создана резервная копия файла C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap4\SavingKeysAsXml\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SavingKeysAsXml" Source="SavingKeysAsXml.cs" Description="Успешно создана резервная копия файла C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap4\SavingKeysAsXml\Backup\SavingKeysAsXml.cs">
+</Event><Event ErrorLevel="0" Project="SavingKeysAsXml" Source="App.ico" Description="Успешно создана резервная копия файла C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap4\SavingKeysAsXml\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="SavingKeysAsXml" Source="SavingKeysAsXml.resx" Description="Успешно создана резервная копия файла C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap4\SavingKeysAsXml\Backup\SavingKeysAsXml.resx">
+</Event><Event ErrorLevel="0" Project="SavingKeysAsXml" Source="SavingKeysAsXml.csproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="SavingKeysAsXml" Source="SavingKeysAsXml.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SavingKeysAsXml.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="SavingKeysAsXml.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SavingKeysAsXml" Source="SavingKeysAsXml.csproj" Description="Сканирование завершено: обновление для файлов проекта не требуется.">
+</Event></UpgradeLog>

@@ -1,0 +1,55 @@
+body {
+	/*background-image: url("https://st.depositphotos.com/1001855/3520/i/950/depositphotos_35201231-stock-photo-food-background-on-black.jpg");*/
+	background-image: url(http://happy-kiddy.ru/em/5/chernyy_fon_uzory_svet_tekstura_1920x1200.jpg);
+	background-size:contain;
+	color: #A9A9A9;
+}
+
+.first_grapth  {
+	font-weight: bold;
+	font-style: inherit;
+	font-family: gabriola;
+	text-align: center;
+	font-size: 1.4em;
+}
+
+#second_grapth {
+	font-weight: bold;
+	font-style: inherit;
+	font-family: gabriola;
+	text-align: center;
+	font-size: 1.4em;
+}
+
+blockquote {
+	font-style: italic;
+	text-align: center;
+}
+
+.menu {
+	text-align: center;
+	font-family: gabriola;
+	font-size: 3.5em;
+}
+
+.table_1 {
+	border-collapse: collapse;
+}
+
+.end {
+	font-size:2em;
+}
+
+#aidaeda {
+	background: white;
+}
+
+.table_2 {
+	align-items: center;
+}
+
+.other {
+	text-decoration: unset;
+	color: #FAF0E6;
+	font-style: italic;
+}

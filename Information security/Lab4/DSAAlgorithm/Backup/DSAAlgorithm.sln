@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSAAlgorithm", "DSAAlgorithm.csproj", "{0CCB0132-3350-4EB2-8FA2-E57CCF022FA3}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{0CCB0132-3350-4EB2-8FA2-E57CCF022FA3}.Debug.ActiveCfg = Debug|.NET
+		{0CCB0132-3350-4EB2-8FA2-E57CCF022FA3}.Debug.Build.0 = Debug|.NET
+		{0CCB0132-3350-4EB2-8FA2-E57CCF022FA3}.Release.ActiveCfg = Release|.NET
+		{0CCB0132-3350-4EB2-8FA2-E57CCF022FA3}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SavingKeysAsXml", "SavingKeysAsXml.csproj", "{9C18C6CE-313C-4630-BD3A-AC8F629D22C4}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{9C18C6CE-313C-4630-BD3A-AC8F629D22C4}.Debug.ActiveCfg = Debug|.NET
+		{9C18C6CE-313C-4630-BD3A-AC8F629D22C4}.Debug.Build.0 = Debug|.NET
+		{9C18C6CE-313C-4630-BD3A-AC8F629D22C4}.Release.ActiveCfg = Release|.NET
+		{9C18C6CE-313C-4630-BD3A-AC8F629D22C4}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

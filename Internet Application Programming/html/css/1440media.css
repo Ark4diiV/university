@@ -1,0 +1,44 @@
+ @media screen and (max-width: 1460px) and (min-width: 1400px) {
+.common_back_div1 {
+	width: 100%;
+    height: auto;
+    margin: 0 auto;
+    padding: 0;
+    font: inherit;
+    box-sizing: border-box;
+    background-color: red;
+    margin-top: 10px;
+}
+
+.itemForMenu {
+	width: auto;
+    height: auto;
+    float:;
+	display: inline-block;
+/*    padding-right: px;*/
+    padding-left: 50px;
+/*	background-color: red;*/
+/*	margin-right: 5px;*/
+}
+     .secondPartForMenu {
+	width: 100%;
+    height: auto;
+    margin: 0 auto;
+    padding: 0;
+    font: inherit;
+    box-sizing: border-box;
+    /*background-color: green;*/
+}
+.SeconditemForMenu {
+	width: auto;
+    /*height: 450px;*/
+      padding: 3px;
+    height: auto;
+    float: left;
+	display: inline-block;
+    padding-left: 50px;
+	/*background-color: red;*/
+/*	margin-right: 5px;*/
+
+}
+}

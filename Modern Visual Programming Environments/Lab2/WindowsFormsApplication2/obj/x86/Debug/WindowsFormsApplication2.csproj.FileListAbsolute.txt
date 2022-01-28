@@ -1,0 +1,30 @@
+C:\Documents and Settings\Зайнулли_РА\Рабочий стол\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Documents and Settings\Зайнулли_РА\Рабочий стол\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Documents and Settings\Зайнулли_РА\Рабочий стол\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Зайнулли_РА\Рабочий стол\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+C:\Documents and Settings\Зайнулли_РА\Рабочий стол\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form2.resources
+C:\Documents and Settings\Зайнулли_РА\Рабочий стол\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Documents and Settings\Зайнулли_РА\Рабочий стол\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Зайнулли_РА\Рабочий стол\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Зайнулли_РА\Рабочий стол\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Documents and Settings\Зайнулли_РА\Рабочий стол\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+E:\Сессия лето 2019\Бровко\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\Сессия лето 2019\Бровко\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\Сессия лето 2019\Бровко\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+E:\Сессия лето 2019\Бровко\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+E:\Сессия лето 2019\Бровко\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form2.resources
+E:\Сессия лето 2019\Бровко\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\Сессия лето 2019\Бровко\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+E:\Сессия лето 2019\Бровко\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+E:\Сессия лето 2019\Бровко\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+E:\Сессия лето 2019\Бровко\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Users\Ark4dii\Nextcloud\Inbox\СГТУ\4 Семестр\9. Современные среды визуального программирования\Решение\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Ark4dii\Nextcloud\Inbox\СГТУ\4 Семестр\9. Современные среды визуального программирования\Решение\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Ark4dii\Nextcloud\Inbox\СГТУ\4 Семестр\9. Современные среды визуального программирования\Решение\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+C:\Users\Ark4dii\Nextcloud\Inbox\СГТУ\4 Семестр\9. Современные среды визуального программирования\Решение\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Ark4dii\Nextcloud\Inbox\СГТУ\4 Семестр\9. Современные среды визуального программирования\Решение\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\Ark4dii\Nextcloud\Inbox\СГТУ\4 Семестр\9. Современные среды визуального программирования\Решение\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Ark4dii\Nextcloud\Inbox\СГТУ\4 Семестр\9. Современные среды визуального программирования\Решение\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+C:\Users\Ark4dii\Nextcloud\Inbox\СГТУ\4 Семестр\9. Современные среды визуального программирования\Решение\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Ark4dii\Nextcloud\Inbox\СГТУ\4 Семестр\9. Современные среды визуального программирования\Решение\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\Ark4dii\Nextcloud\Inbox\СГТУ\4 Семестр\9. Современные среды визуального программирования\Решение\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb

@@ -1,0 +1,42 @@
+C:\Users\Drun\source\repos\LF3\LF3\bin\Debug\Database.mdb
+C:\Users\Drun\source\repos\LF3\LF3\bin\Debug\LF3.exe.config
+C:\Users\Drun\source\repos\LF3\LF3\bin\Debug\LF3.exe
+C:\Users\Drun\source\repos\LF3\LF3\bin\Debug\LF3.pdb
+C:\Users\Drun\source\repos\LF3\LF3\obj\Debug\LF3.csprojAssemblyReference.cache
+C:\Users\Drun\source\repos\LF3\LF3\obj\Debug\LF3.EmployeeForm.resources
+C:\Users\Drun\source\repos\LF3\LF3\obj\Debug\LF3.Form1.resources
+C:\Users\Drun\source\repos\LF3\LF3\obj\Debug\LF3.Properties.Resources.resources
+C:\Users\Drun\source\repos\LF3\LF3\obj\Debug\LF3.csproj.GenerateResource.cache
+C:\Users\Drun\source\repos\LF3\LF3\obj\Debug\LF3.csproj.CoreCompileInputs.cache
+C:\Users\Drun\source\repos\LF3\LF3\obj\Debug\LF3.exe
+C:\Users\Drun\source\repos\LF3\LF3\obj\Debug\LF3.pdb
+C:\Users\Drun\source\repos\LF3\LF3\bin\Debug\DatabaseCustomers.mdb
+C:\Users\Drun\source\repos\LF3\LF3\obj\Debug\LF3.CustomerForm.resources
+C:\Users\user\Downloads\Sovremennye_sredy_vizualnogo_programmirovania\LF3\LF3\bin\Debug\Database.mdb
+C:\Users\user\Downloads\Sovremennye_sredy_vizualnogo_programmirovania\LF3\LF3\bin\Debug\DatabaseCustomers.mdb
+C:\Users\user\Downloads\Sovremennye_sredy_vizualnogo_programmirovania\LF3\LF3\bin\Debug\LF3.exe.config
+C:\Users\user\Downloads\Sovremennye_sredy_vizualnogo_programmirovania\LF3\LF3\bin\Debug\LF3.exe
+C:\Users\user\Downloads\Sovremennye_sredy_vizualnogo_programmirovania\LF3\LF3\bin\Debug\LF3.pdb
+C:\Users\user\Downloads\Sovremennye_sredy_vizualnogo_programmirovania\LF3\LF3\obj\Debug\LF3.csprojAssemblyReference.cache
+C:\Users\user\Downloads\Sovremennye_sredy_vizualnogo_programmirovania\LF3\LF3\obj\Debug\LF3.CustomerForm.resources
+C:\Users\user\Downloads\Sovremennye_sredy_vizualnogo_programmirovania\LF3\LF3\obj\Debug\LF3.EmployeeForm.resources
+C:\Users\user\Downloads\Sovremennye_sredy_vizualnogo_programmirovania\LF3\LF3\obj\Debug\LF3.Form1.resources
+C:\Users\user\Downloads\Sovremennye_sredy_vizualnogo_programmirovania\LF3\LF3\obj\Debug\LF3.Properties.Resources.resources
+C:\Users\user\Downloads\Sovremennye_sredy_vizualnogo_programmirovania\LF3\LF3\obj\Debug\LF3.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Sovremennye_sredy_vizualnogo_programmirovania\LF3\LF3\obj\Debug\LF3.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Sovremennye_sredy_vizualnogo_programmirovania\LF3\LF3\obj\Debug\LF3.exe
+C:\Users\user\Downloads\Sovremennye_sredy_vizualnogo_programmirovania\LF3\LF3\obj\Debug\LF3.pdb
+C:\Users\Ark4dii\Nextcloud\Inbox\СГТУ\4 Семестр\9. Современные среды визуального программирования\Решение\LF3\LF3\bin\Debug\Database.mdb
+C:\Users\Ark4dii\Nextcloud\Inbox\СГТУ\4 Семестр\9. Современные среды визуального программирования\Решение\LF3\LF3\bin\Debug\DatabaseCustomers.mdb
+C:\Users\Ark4dii\Nextcloud\Inbox\СГТУ\4 Семестр\9. Современные среды визуального программирования\Решение\LF3\LF3\bin\Debug\LF3.exe.config
+C:\Users\Ark4dii\Nextcloud\Inbox\СГТУ\4 Семестр\9. Современные среды визуального программирования\Решение\LF3\LF3\bin\Debug\LF3.exe
+C:\Users\Ark4dii\Nextcloud\Inbox\СГТУ\4 Семестр\9. Современные среды визуального программирования\Решение\LF3\LF3\bin\Debug\LF3.pdb
+C:\Users\Ark4dii\Nextcloud\Inbox\СГТУ\4 Семестр\9. Современные среды визуального программирования\Решение\LF3\LF3\obj\Debug\LF3.csprojAssemblyReference.cache
+C:\Users\Ark4dii\Nextcloud\Inbox\СГТУ\4 Семестр\9. Современные среды визуального программирования\Решение\LF3\LF3\obj\Debug\LF3.CustomerForm.resources
+C:\Users\Ark4dii\Nextcloud\Inbox\СГТУ\4 Семестр\9. Современные среды визуального программирования\Решение\LF3\LF3\obj\Debug\LF3.EmployeeForm.resources
+C:\Users\Ark4dii\Nextcloud\Inbox\СГТУ\4 Семестр\9. Современные среды визуального программирования\Решение\LF3\LF3\obj\Debug\LF3.Form1.resources
+C:\Users\Ark4dii\Nextcloud\Inbox\СГТУ\4 Семестр\9. Современные среды визуального программирования\Решение\LF3\LF3\obj\Debug\LF3.Properties.Resources.resources
+C:\Users\Ark4dii\Nextcloud\Inbox\СГТУ\4 Семестр\9. Современные среды визуального программирования\Решение\LF3\LF3\obj\Debug\LF3.csproj.GenerateResource.cache
+C:\Users\Ark4dii\Nextcloud\Inbox\СГТУ\4 Семестр\9. Современные среды визуального программирования\Решение\LF3\LF3\obj\Debug\LF3.csproj.CoreCompileInputs.cache
+C:\Users\Ark4dii\Nextcloud\Inbox\СГТУ\4 Семестр\9. Современные среды визуального программирования\Решение\LF3\LF3\obj\Debug\LF3.exe
+C:\Users\Ark4dii\Nextcloud\Inbox\СГТУ\4 Семестр\9. Современные среды визуального программирования\Решение\LF3\LF3\obj\Debug\LF3.pdb

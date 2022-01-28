@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DSAAlgorithm">
+</Property><Property Name="Файл решения" Value="C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap5\DSAAlgorithm\DSAAlgorithm.sln">
+</Property><Property Name="Date" Value="8 октября 2010 г.">
+</Property><Property Name="Time" Value="21:50">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DSAAlgorithm.sln" Description="Успешно создана резервная копия файла C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap5\DSAAlgorithm\Backup\DSAAlgorithm.sln">
+</Event><Event ErrorLevel="0" Project="DSAAlgorithm" Source="DSAAlgorithm.csproj" Description="Успешно создана резервная копия файла проекта: C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap5\DSAAlgorithm\Backup\DSAAlgorithm.csproj">
+</Event><Event ErrorLevel="0" Project="DSAAlgorithm" Source="DSAAlgorithm.csproj.user" Description="Резервная копия проекта успешно создана как C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap5\DSAAlgorithm\Backup\DSAAlgorithm.csproj.user">
+</Event><Event ErrorLevel="0" Project="DSAAlgorithm" Source="AssemblyInfo.cs" Description="Успешно создана резервная копия файла C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap5\DSAAlgorithm\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DSAAlgorithm" Source="DSAAlgorithm.cs" Description="Успешно создана резервная копия файла C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap5\DSAAlgorithm\Backup\DSAAlgorithm.cs">
+</Event><Event ErrorLevel="0" Project="DSAAlgorithm" Source="App.ico" Description="Успешно создана резервная копия файла C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap5\DSAAlgorithm\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="DSAAlgorithm" Source="DSAAlgorithm.resx" Description="Успешно создана резервная копия файла C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap5\DSAAlgorithm\Backup\DSAAlgorithm.resx">
+</Event><Event ErrorLevel="0" Project="DSAAlgorithm" Source="DSAAlgorithm.csproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="DSAAlgorithm" Source="DSAAlgorithm.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DSAAlgorithm.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="DSAAlgorithm.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DSAAlgorithm" Source="DSAAlgorithm.csproj" Description="Сканирование завершено: обновление для файлов проекта не требуется.">
+</Event></UpgradeLog>

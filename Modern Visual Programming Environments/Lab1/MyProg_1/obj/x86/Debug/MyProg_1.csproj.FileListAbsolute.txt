@@ -1,0 +1,26 @@
+C:\Documents and Settings\Фролов_ОИ\Мои документы\Visual Studio 2010\Projects\MyProg_1\MyProg_1\bin\Debug\MyProg_1.exe
+C:\Documents and Settings\Фролов_ОИ\Мои документы\Visual Studio 2010\Projects\MyProg_1\MyProg_1\bin\Debug\MyProg_1.pdb
+C:\Documents and Settings\Фролов_ОИ\Мои документы\Visual Studio 2010\Projects\MyProg_1\MyProg_1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Фролов_ОИ\Мои документы\Visual Studio 2010\Projects\MyProg_1\MyProg_1\obj\x86\Debug\MyProg_1.Form1.resources
+C:\Documents and Settings\Фролов_ОИ\Мои документы\Visual Studio 2010\Projects\MyProg_1\MyProg_1\obj\x86\Debug\MyProg_1.Properties.Resources.resources
+C:\Documents and Settings\Фролов_ОИ\Мои документы\Visual Studio 2010\Projects\MyProg_1\MyProg_1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Фролов_ОИ\Мои документы\Visual Studio 2010\Projects\MyProg_1\MyProg_1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Фролов_ОИ\Мои документы\Visual Studio 2010\Projects\MyProg_1\MyProg_1\obj\x86\Debug\MyProg_1.exe
+C:\Documents and Settings\Фролов_ОИ\Мои документы\Visual Studio 2010\Projects\MyProg_1\MyProg_1\obj\x86\Debug\MyProg_1.pdb
+E:\Сессия лето 2019\Визуал прог\LR1\MyProg_1\bin\Debug\MyProg_1.exe
+E:\Сессия лето 2019\Визуал прог\LR1\MyProg_1\bin\Debug\MyProg_1.pdb
+E:\Сессия лето 2019\Визуал прог\LR1\MyProg_1\obj\x86\Debug\MyProg_1.Form1.resources
+E:\Сессия лето 2019\Визуал прог\LR1\MyProg_1\obj\x86\Debug\MyProg_1.Properties.Resources.resources
+E:\Сессия лето 2019\Визуал прог\LR1\MyProg_1\obj\x86\Debug\MyProg_1.csproj.GenerateResource.cache
+E:\Сессия лето 2019\Визуал прог\LR1\MyProg_1\obj\x86\Debug\MyProg_1.csproj.CoreCompileInputs.cache
+E:\Сессия лето 2019\Визуал прог\LR1\MyProg_1\obj\x86\Debug\MyProg_1.exe
+E:\Сессия лето 2019\Визуал прог\LR1\MyProg_1\obj\x86\Debug\MyProg_1.pdb
+C:\Users\Ark4dii\Nextcloud\Inbox\СГТУ\4 Семестр\9. Современные среды визуального программирования\Решение\лабы\LR1\MyProg_1\bin\Debug\MyProg_1.exe
+C:\Users\Ark4dii\Nextcloud\Inbox\СГТУ\4 Семестр\9. Современные среды визуального программирования\Решение\лабы\LR1\MyProg_1\bin\Debug\MyProg_1.pdb
+C:\Users\Ark4dii\Nextcloud\Inbox\СГТУ\4 Семестр\9. Современные среды визуального программирования\Решение\лабы\LR1\MyProg_1\obj\x86\Debug\MyProg_1.csprojAssemblyReference.cache
+C:\Users\Ark4dii\Nextcloud\Inbox\СГТУ\4 Семестр\9. Современные среды визуального программирования\Решение\лабы\LR1\MyProg_1\obj\x86\Debug\MyProg_1.Form1.resources
+C:\Users\Ark4dii\Nextcloud\Inbox\СГТУ\4 Семестр\9. Современные среды визуального программирования\Решение\лабы\LR1\MyProg_1\obj\x86\Debug\MyProg_1.Properties.Resources.resources
+C:\Users\Ark4dii\Nextcloud\Inbox\СГТУ\4 Семестр\9. Современные среды визуального программирования\Решение\лабы\LR1\MyProg_1\obj\x86\Debug\MyProg_1.csproj.GenerateResource.cache
+C:\Users\Ark4dii\Nextcloud\Inbox\СГТУ\4 Семестр\9. Современные среды визуального программирования\Решение\лабы\LR1\MyProg_1\obj\x86\Debug\MyProg_1.csproj.CoreCompileInputs.cache
+C:\Users\Ark4dii\Nextcloud\Inbox\СГТУ\4 Семестр\9. Современные среды визуального программирования\Решение\лабы\LR1\MyProg_1\obj\x86\Debug\MyProg_1.exe
+C:\Users\Ark4dii\Nextcloud\Inbox\СГТУ\4 Семестр\9. Современные среды визуального программирования\Решение\лабы\LR1\MyProg_1\obj\x86\Debug\MyProg_1.pdb

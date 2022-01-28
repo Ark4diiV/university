@@ -1,0 +1,7 @@
+C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap4\RSAAlgorithm\bin\Debug\RSAAlgorithm.exe
+C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap4\RSAAlgorithm\bin\Debug\RSAAlgorithm.pdb
+C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap4\RSAAlgorithm\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap4\RSAAlgorithm\obj\Debug\RSAAlgorithm.RSAAlgorithm.resources
+C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap4\RSAAlgorithm\obj\Debug\RSAAlgorithm.csproj.GenerateResource.Cache
+C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap4\RSAAlgorithm\obj\Debug\RSAAlgorithm.exe
+C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap4\RSAAlgorithm\obj\Debug\RSAAlgorithm.pdb

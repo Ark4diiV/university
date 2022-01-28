@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="RSAAlgorithm">
+</Property><Property Name="Файл решения" Value="C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap4\RSAAlgorithm\RSAAlgorithm.sln">
+</Property><Property Name="Date" Value="2 октября 2010 г.">
+</Property><Property Name="Time" Value="4:34">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="RSAAlgorithm.sln" Description="Успешно создана резервная копия файла C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap4\RSAAlgorithm\Backup\RSAAlgorithm.sln">
+</Event><Event ErrorLevel="0" Project="RSAAlgorithm" Source="RSAAlgorithm.csproj" Description="Успешно создана резервная копия файла проекта: C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap4\RSAAlgorithm\Backup\RSAAlgorithm.csproj">
+</Event><Event ErrorLevel="0" Project="RSAAlgorithm" Source="RSAAlgorithm.csproj.user" Description="Резервная копия проекта успешно создана как C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap4\RSAAlgorithm\Backup\RSAAlgorithm.csproj.user">
+</Event><Event ErrorLevel="0" Project="RSAAlgorithm" Source="AssemblyInfo.cs" Description="Успешно создана резервная копия файла C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap4\RSAAlgorithm\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="RSAAlgorithm" Source="RSAAlgorithm.cs" Description="Успешно создана резервная копия файла C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap4\RSAAlgorithm\Backup\RSAAlgorithm.cs">
+</Event><Event ErrorLevel="0" Project="RSAAlgorithm" Source="App.ico" Description="Успешно создана резервная копия файла C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap4\RSAAlgorithm\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="RSAAlgorithm" Source="RSAAlgorithm.resx" Description="Успешно создана резервная копия файла C:\Documents and Settings\a\Рабочий стол\OI\NetSecurity\Chap4\RSAAlgorithm\Backup\RSAAlgorithm.resx">
+</Event><Event ErrorLevel="0" Project="RSAAlgorithm" Source="RSAAlgorithm.csproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="RSAAlgorithm" Source="RSAAlgorithm.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="RSAAlgorithm.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="RSAAlgorithm.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RSAAlgorithm" Source="RSAAlgorithm.csproj" Description="Сканирование завершено: обновление для файлов проекта не требуется.">
+</Event></UpgradeLog>
